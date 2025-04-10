@@ -1,2 +1,1 @@
-
 <td style="height:85px; background: url(https://wmrfast.com/css/bg-header2.png) repeat-x scroll 0% 0% transparent"><span style="padding-left:30px; color: black;font-weight:bold;font-size:25px;font-family:Tahoma" id="tt"><a href="javascript://" onclick="check();" style="font-size:25px; color:blue;">Продолжить</a></span></td>
